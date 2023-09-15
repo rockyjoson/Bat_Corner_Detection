@@ -1,6 +1,6 @@
 # Bat_Corner_Detection
 
-This project can be employed to detect four corners of bat.
+This project can be employed to detect four corners of a cricket bat.
 
 YoloV8 is used as the base architecture and further trained it with the custom dataset present in the folder 'corner_detection'.
 The code is available in the bat_corner_detection.ipynb jupyter file
